@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # Large files
-supplementary_data
+./supplementary_data
